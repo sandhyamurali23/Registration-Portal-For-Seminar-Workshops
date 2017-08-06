@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="150px" height="40px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Layer_1">
+        <path d="M40,10C40,4.47715 35.5228,0 30,0L10,0C4.47715,0 0,4.47715 0,10L0,30C0,35.5228 4.47715,40 10,40L30,40C35.5228,40 40,35.5228 40,30L40,10Z" style="fill:rgb(235,235,235);"/>
+        <g>
+            <path d="M20,4.05768C28.8047,4.05768 35.9423,11.1953 35.9423,20C35.9423,28.8047 28.8047,35.9423 20,35.9423C11.1953,35.9423 4.05768,28.8047 4.05768,20C4.05768,11.1953 11.1953,4.05768 20,4.05768Z" style="fill:rgb(202,77,99);"/>
+        </g>
+        <g>
+            <path d="M20,8.97838C26.0871,8.97838 31.0216,13.9129 31.0216,20C31.0216,26.0871 26.0871,31.0216 20,31.0216C13.9129,31.0216 8.97838,26.0871 8.97838,20C8.97838,13.9129 13.9129,8.97838 20,8.97838Z" style="fill:rgb(216,82,105);"/>
+        </g>
+    </g>
+</svg>
